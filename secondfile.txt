@@ -1,1 +1,2 @@
 This is my first time creating a text file 
+i am writing a second line
